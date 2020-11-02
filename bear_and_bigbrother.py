@@ -1,6 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
-a, b = map(int, raw_input().split())
+a, b = map(int, input().split())
 x = 0
 
 while a<=b:

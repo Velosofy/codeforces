@@ -1,6 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
-s = raw_input()
+s = input()
 u = set(s)
 u_len = len(u)
 

@@ -1,6 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
-s = raw_input()
+s = input()
 if s[0] == "0":
     print("NO")
 else:

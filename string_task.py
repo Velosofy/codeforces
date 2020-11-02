@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-text = raw_input()
+text = input()
 vowels = ['a', 'e', 'i', 'o', 'u', 'y']
 result = ''
 

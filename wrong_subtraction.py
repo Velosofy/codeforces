@@ -1,6 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
-n, k = map(int, raw_input().split())
+n, k = map(int, input().split())
 i = 0
 
 while i < k:
@@ -9,4 +9,4 @@ while i < k:
         n = n / 10
     else:
         n = n - 1
-print(n)
+print(int(n))

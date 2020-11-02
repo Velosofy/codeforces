@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-x = raw_input()
+x = input()
 print('' + x[0].upper() + x[1:])
